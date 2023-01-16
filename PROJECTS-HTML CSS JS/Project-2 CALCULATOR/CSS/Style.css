@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Semi+Condensed&display=swap');
+
+:root {
+    --main-bg-color: #25ccda;
+}
+
+* {
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+
+body{
+    background-color: yellow;
+}
+
+.button {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 3px solid black;
+    border-radius: 16px;
+    background-color: var(--main-bg-color);
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.row {
+    margin: 6px 0;
+}
+
+.row input {
+    width: 291px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 6px;
+}

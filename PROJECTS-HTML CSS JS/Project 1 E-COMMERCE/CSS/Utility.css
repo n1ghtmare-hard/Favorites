@@ -1,0 +1,28 @@
+.Flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    background-color: var(--main-bg-color);
+    cursor: pointer;
+    padding: 1px 5px;
+    border: 2px solid white;
+    border-radius: 8px;
+}
+
+.my-1 {
+    margin: 5px 0;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+
+.my-2 {
+    text-align: center;
+    margin: 26px 0;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}

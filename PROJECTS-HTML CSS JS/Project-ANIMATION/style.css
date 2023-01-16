@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    border: 2px solid black;
+    width: 100vw;
+    height: 100vh;
+}
+.box{
+    background-color: red;
+    text-align: center;
+    text-decoration: 2px underline;
+    width: 45vw;
+    height: 45vh;
+    border: 2px solid black;
+    animation: Width-HeightAnimater 2s ease-in-out 0.4s alternate;
+}
+@keyframes Width-HeightAnimater {
+    from{
+        width: 45vw;
+        height: 45vh;
+        background-color: red;
+        font-size: 16px;
+        border-width: 2px;
+    }
+    to{
+        width: 65vw;
+        height: 65vh;
+        background-color: blue;
+        font-size: 24px;
+        border-width: 4px;
+    }
+    
+}
