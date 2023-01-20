@@ -1,0 +1,38 @@
+#Clock-Container {
+    position: relative;
+    background: url(/IMAGE/clock.png) no-repeat;
+    background-size: 100%;
+    width: 40vw;
+    height: 40vw;
+    margin: auto;
+}
+
+#Hours,
+#Minutes,
+#Seconds {
+    position: absolute;
+    background-color: black;
+    transform-origin: Bottom;
+    border-radius: 10px
+}
+
+#Hours {
+    width: 1.8%;
+    height: 25%;
+    top: 25%;
+    left: 48.85%;
+}
+
+#Minutes {
+    width: 1.6%;
+    height: 30%;
+    top: 20%;
+    left: 48.9%;
+}
+
+#Seconds {
+    width: 1%;
+    height: 40%;
+    top: 9%;
+    left: 49.25%;
+}
