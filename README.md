@@ -8,24 +8,43 @@ This repository highlights some of my best work where I experiment, learn, and b
 ## 📂 Projects Overview
 
 ### 🌐 Frontend Projects (HTML, CSS, JavaScript)
-- **[Project 1 Name]**  
-  A short description of what it does, its purpose, or why you built it.  
+
+- **🛒 Ecommerce Website**  
+  A responsive ecommerce website with product listings, shopping cart functionality, and a smooth user experience.  
+  Features include:
+  - Modern and responsive UI  
+  - Add/remove items from cart  
+  - Basic checkout flow  
+  - Local storage to save cart state  
   _Tech used: HTML, CSS, JavaScript_
 
-- **[Project 2 Name]**  
-  A short description.  
+- **🧮 Calculator**  
+  A simple yet elegant calculator built with clean UI and smooth button interactions.  
+  Features include:
+  - Basic arithmetic operations (add, subtract, multiply, divide)  
+  - Responsive and minimal design  
+  - Interactive button animations  
   _Tech used: HTML, CSS, JavaScript_
 
 ---
 
 ### 🐍 Python Projects
-- **[Image Resizer]**  
-  A short description of the project, problem it solves, or what makes it interesting.  
-  _Tech used: Python (and any libraries you want to mention)_
 
-- **[Robo Speaker]**  
-  A short description.  
-  _Tech used: Python_
+- **🖼️ Image Resizer**  
+  A Python tool that resizes images to custom dimensions or scales them proportionally.  
+  Features include:
+  - Resize by width/height or by percentage  
+  - Supports multiple image formats  
+  - Saves optimized versions for web or personal use  
+  _Tech used: Python, Pillow_
+
+- **🤖 Robo Speaker**  
+  A fun Python project that converts text into speech.  
+  Features include:
+  - Converts user input into voice output  
+  - Adjustable speech rate and voice settings  
+  - Useful for accessibility or personal assistants  
+  _Tech used: Python, pyttsx3_
 
 ---
 
