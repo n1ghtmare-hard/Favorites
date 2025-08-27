@@ -53,5 +53,5 @@ This repository highlights some of my best work where I experiment, learn, and b
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/n1ghtmare-hard/Favorites.git
+cd Favorites
